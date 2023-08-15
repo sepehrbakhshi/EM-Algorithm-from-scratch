@@ -1,2 +1,2 @@
 # EM-Algorithm-from-scratch
-EM Algorithm from scratch
+Expectation–maximization algorithm from scratch
